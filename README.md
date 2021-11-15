@@ -1,3 +1,13 @@
+[CLICK HERE TO SEE THIS PROJECT](https://netflix-clone-app-5cb4b.web.app/)
+
+This project is a clone of Netflix Web App with some basic functionality of:
+  1. User Authentication i.e. Sign Up and Log In using [FireBase](https://firebase.google.com/).
+  2. Payment Subscription using [Stripe](https://stripe.com/en-in).
+ 
+This poject is underprogress and gonna add features like:
+  1. Trailer in Main Screen
+  2. Recommendation System
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
